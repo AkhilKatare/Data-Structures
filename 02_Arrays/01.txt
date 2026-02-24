@@ -1,0 +1,10 @@
+Arrays are simple data structures, in which the data is arranged in sequential and contiguous memory.
+Arrays in C++, will always contain similar type of data.
+
+Representation:
+-----------------------
+| Data One | Data Two |
+-----------------------
+
+Each data inside the array, will have a index number, starts from zero.
+Each element inside an array can be accessed using this index number.
