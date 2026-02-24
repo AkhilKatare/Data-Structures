@@ -1,0 +1,12 @@
+A data structure is a specific way of organizing and storing information in a computer so that it can be used and accessed efficiently.
+
+Types of data structure:
+There are 2 different types of data structure, i.e. linear data structure, non-linear data structure.
+
+* Linear DS: 
+A linear data structure is a way of organizing data elements in a sequential, single-level order.
+For example: array, linked list, stack, queue.
+
+* Non-Linear DS:
+Non-linear data structures organize data hierarchically or interconnectedly rather than sequentially.
+For example: tree, graph.
